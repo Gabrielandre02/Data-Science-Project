@@ -6,12 +6,12 @@
 
 # Gabriel andre
 <sub>*Lead Data Scientist*</sub>
-
+---
 Today I am looking to increase my knowledge in the field of data science to get a job opportunity in this field.
 
-
+---
 **Background in:** Python, Machine Learning.
-
+---
 **Links:**
 * [Blog]()
 * [LinkedIn](https://www.linkedin.com/in/gabriel-andre-01429a213/)
