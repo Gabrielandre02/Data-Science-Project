@@ -20,6 +20,5 @@ Today I am looking to increase my knowledge in the field of data science to get 
 
 ## Projetos:
 
-
-
+<a href="//github.com/Gabrielandre02/Data-science/blob/main/Analisando_os_Dados_do_Airbnb_(Paris_França).ipynb"><img src="https://cdn-images-1.medium.com/max/1200/1*lgLLPCClCoeH-3bTN48a_Q.png" class="media-object  img-responsive img-thumbnail"></a>
 ---
