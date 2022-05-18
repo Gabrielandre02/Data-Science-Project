@@ -19,7 +19,7 @@
 ## projects:
 
 ### Airbnb - Paris
-<a href="//github.com/Gabrielandre02/Data-science/blob/main/Analisando_os_Dados_do_Airbnb_(Paris_França).ipynb"><img src="https://cdn-images-1.medium.com/max/1200/1*lgLLPCClCoeH-3bTN48a_Q.png" class="media-object  img-responsive img-thumbnail"></a>
+<a href="//github.com/Gabrielandre02/Data-Science-Project/blob/main/analysis/Airbnbparis.ipynb"><img src="https://cdn-images-1.medium.com/max/1200/1*lgLLPCClCoeH-3bTN48a_Q.png" class="media-object  img-responsive img-thumbnail"></a>
 ### Credit analysis
-<a href="//github.com/Gabrielandre02/Data-science/blob/main/Analise_de_Credito.ipynb"><img src="https://i.imgur.com/QImZ5ka.png" class="media-object  img-responsive img-thumbnail"></a>
+<a href="//github.com/Gabrielandre02/Data-Science-Project/blob/main/analysis/credit%20analysis.ipynb"><img src="https://i.imgur.com/QImZ5ka.png" class="media-object  img-responsive img-thumbnail"></a>
 ---
